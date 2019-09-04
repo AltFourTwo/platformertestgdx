@@ -1,0 +1,144 @@
+{
+com.badlogic.gdx.graphics.g2d.BitmapFont: {
+	gamefont: {
+		file: gamefont.fnt
+	}
+	gamefont_white: {
+		file: gamefont.fnt
+	}
+	superFont: {
+		file: superFont.fnt
+	}
+}
+com.badlogic.gdx.graphics.Color: {
+	black: {
+		r: 0
+		g: 0
+		b: 0
+		a: 1
+	}
+	blue: {
+		r: 9.907479E-4
+		g: 0
+		b: 1
+		a: 1
+	}
+	green: {
+		r: 0
+		g: 1
+		b: 0
+		a: 1
+	}
+	magenta: {
+		r: 1
+		g: 0
+		b: 1
+		a: 1
+	}
+	orange: {
+		r: 1
+		g: 0.49803922
+		b: 0
+		a: 1
+	}
+	orange_red: {
+		r: 1
+		g: 0.24705882
+		b: 0
+		a: 1
+	}
+	orange_yellow: {
+		r: 1
+		g: 0.7490196
+		b: 0
+		a: 1
+	}
+	purple: {
+		r: 0.4966892
+		g: 0
+		b: 1
+		a: 1
+	}
+	red: {
+		r: 1
+		g: 0
+		b: 0
+		a: 1
+	}
+	white: {
+		r: 1
+		g: 1
+		b: 1
+		a: 1
+	}
+	yellow: {
+		r: 1
+		g: 1
+		b: 0
+		a: 1
+	}
+}
+com.platformertestgdx.game.guihud.PointBar$PointBarStyle: {
+	default: {
+		background: hpmeter
+		knob1: hpknob
+		knob1before: hpgreen
+		overlay: overlay
+	}
+	fullscale: {
+		background: hpmeterfull
+		knob1: knobgreenfull
+		knob1before: hpgreenfull
+		overlay: overlay2
+	}
+}
+com.platformertestgdx.game.guihud.HitPointBar$HitPointBarStyle: {
+	default: {
+		background: hpmeter
+		knob1: hpknob
+		knob1before: hpgreen
+		knob2: hpknobred
+		knob2before: hpredbefore
+		overlay: overlay
+	}
+	fullscale: {
+		background: hpmeterfull
+		knob1: knobgreenfull
+		knob1before: hpgreenfull
+		knob2: knobredfull
+		knob2before: hpredfull
+		overlay: overlay2
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.ProgressBar$ProgressBarStyle: {
+	default-horizontal: {
+		background: hpmeter
+		knob: hpknob
+		knobBefore: hpgreen
+		knobAfter: hpred
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+	default: {
+		font: gamefont_white
+		fontColor: orange_yellow
+		downFontColor: orange_red
+		checkedFontColor: orange_red
+		disabledFontColor: red
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextField$TextFieldStyle: {
+	default: {
+		font: superFont
+		fontColor: purple
+		focusedFontColor: magenta
+		disabledFontColor: black
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Touchpad$TouchpadStyle: {
+	default: {
+		background: joypadex1
+		knob: joypad1knobex
+	}
+}
+}

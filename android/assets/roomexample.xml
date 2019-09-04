@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<room id="1" name="test" globalX="1" globalY="1" background="testbg.png">
+    <blockMap id="1" tileset="testtileset.png"/>
+    <dimensions type="preset" preset="1by1"/>
+    <!--  <dimensions type="inBlocks" width="20" height="10" />  -->
+    <!--  <dimensions type="inScreens" width="1" height="1" />  -->
+    <doors>
+        <door>
+            <doorId/>
+            <playerAppearCoords>
+                <x/>
+                <y/>
+            </playerAppearCoords>
+            <connectsToDoorId/>
+            <inMapId/>
+            <doorPassingAnimation/>
+        </door>
+    </doors>
+</room>

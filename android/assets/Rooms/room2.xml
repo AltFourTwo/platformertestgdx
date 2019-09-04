@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.0" orientation="orthogonal" renderorder="right-up" width="20" height="10" tilewidth="32" tileheight="32" infinite="0" nextlayerid="5" nextobjectid="42">
+ <properties>
+  <property name="background" value="testbg.png"/>
+  <property name="globalX" type="int" value="1"/>
+  <property name="globalY" type="int" value="1"/>
+  <property name="roomID" type="int" value="1"/>
+  <property name="roomName" value="Test Room"/>
+  <property name="tileset" value="testtileset.png"/>
+ </properties>
+ <tileset firstgid="1" source="testts.tsx"/>
+ <layer id="1" name="Tile Layer 1" width="20" height="10">
+  <data>
+   <tile gid="4"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile/>
+   <tile/>
+   <tile gid="2"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="2"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+  </data>
+ </layer>
+ <objectgroup id="4" name="Blocks">
+  <object id="18" type="SolidBlock" x="32" y="0" width="576" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="0"/>
+    <property name="tilesetY" type="int" value="0"/>
+   </properties>
+  </object>
+  <object id="24" type="PassThroughBlock" x="64" y="192" width="96" height="96">
+   <properties>
+    <property name="tilesetX" type="int" value="0"/>
+    <property name="tilesetY" type="int" value="1"/>
+   </properties>
+  </object>
+  <object id="30" type="SolidBlock" x="0" y="0" width="32" height="320">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="1"/>
+   </properties>
+  </object>
+  <object id="32" type="SolidBlock" x="32" y="288" width="512" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="1"/>
+   </properties>
+  </object>
+  <object id="33" type="SolidBlock" x="544" y="256" width="96" height="64">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="1"/>
+   </properties>
+  </object>
+  <object id="34" type="SolidBlock" x="608" y="0" width="32" height="128">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="1"/>
+   </properties>
+  </object>
+  <object id="35" type="SolidBlock" x="32" y="128" width="192" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="1"/>
+   </properties>
+  </object>
+  <object id="36" type="SemiSolidBlock" x="96" y="64" width="32" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="0"/>
+   </properties>
+  </object>
+  <object id="37" type="SemiSolidBlock" x="64" y="96" width="96" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="0"/>
+   </properties>
+  </object>
+  <object id="38" type="SemiSolidBlock" x="352" y="192" width="32" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="0"/>
+   </properties>
+  </object>
+  <object id="39" type="SemiSolidBlock" x="320" y="224" width="96" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="0"/>
+   </properties>
+  </object>
+  <object id="40" type="SemiSolidBlock" x="288" y="256" width="160" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="0"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

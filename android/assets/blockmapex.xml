@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<blockMap id="1">
+    <block type="Solid"> <!-- isFloor="true" collisionType="FullSolid" --> >
+        <blockDimensions width="20"/>  <!-- height-"1" -->
+        <blockCoords x="0" y="0"/>
+        <tileSetCoords x="0" y="0"/>  <!-- width="1" height-"1" -->
+        <!-- <colisionType key="1"/> -->
+        <!-- <colisionType key="1"/> -->
+        <!-- <colisionType key="1"/> -->
+    </block>
+
+    <block>
+        <blockType type="Solid"/>
+        <blockDimensions width="3" height="3"/>
+        <blockCoords x="6" y="3"/>
+        <tileSetCoords x="1" y="1"/>
+    </block>
+
+    <block>
+        <blockType type="Solid"/>
+        <blockCoords x="11" y="6"/>
+        <tileSetCoords x="1" y="0"/>
+    </block>
+
+    <block>
+        <blockType type="Solid"/>
+        <blockDimensions width="3"/>
+        <blockCoords x="10" y="7"/>
+        <tileSetCoords x="1" y="0"/>
+    </block>
+
+    <block>
+        <blockType type="Solid"/>
+        <blockDimensions width="5"/>
+        <blockCoords x="9" y="8"/>
+        <tileSetCoords x="1" y="0"/>
+    </block>
+
+    <block>
+        <blockType type="Solid"/>
+        <blockCoords x="4" y="8"/>
+        <tileSetCoords x="0" y="1"/>
+    </block>
+
+    <block>
+        <blockType type="Solid"/>
+        <blockCoords x="5" y="8"/>
+        <tileSetCoords x="0" y="1"/>
+    </block>
+
+    <block>
+        <blockType type="Solid"/>
+        <blockDimensions width="3"/>
+        <blockCoords x="0" y="8"/>
+        <tileSetCoords x="1" y="1"/>
+    </block>
+
+    <block>
+        <blockType type="Solid"/>
+        <blockDimensions width="3"/>
+        <blockCoords x="17" y="8"/>
+        <tileSetCoords x="1" y="1"/>
+    </block>
+
+    <block>
+        <blockType type="Solid"/>
+        <blockDimensions width="20"/>
+        <blockCoords x="0" y="9"/>
+        <tileSetCoords x="1" y="1"/>
+    </block>
+
+</blockMap>

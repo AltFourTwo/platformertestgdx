@@ -1,0 +1,1120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.0" orientation="orthogonal" renderorder="right-down" width="40" height="20" tilewidth="32" tileheight="32" infinite="0" nextlayerid="3" nextobjectid="48">
+ <properties>
+  <property name="background" value="testbg.png"/>
+  <property name="globalX" type="int" value="1"/>
+  <property name="globalY" type="int" value="1"/>
+  <property name="roomID" type="int" value="3"/>
+  <property name="roomName" value="Test Room 3"/>
+  <property name="tileset" value="testtileset.png"/>
+ </properties>
+ <tileset firstgid="1" source="testts.tsx"/>
+ <layer id="1" name="Under Player" width="40" height="20">
+  <data>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="4"/>
+   <tile/>
+   <tile/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="2"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="2"/>
+   <tile/>
+   <tile/>
+   <tile gid="2"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile/>
+   <tile/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile/>
+   <tile/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile/>
+   <tile/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+  </data>
+ </layer>
+ <objectgroup id="2" name="Blocks">
+  <object id="1" type="SolidBlock" x="0" y="0" width="32" height="640">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="1"/>
+    <property name="type" value="Solid"/>
+   </properties>
+  </object>
+  <object id="3" type="SolidBlock" x="32" y="608" width="1216" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="1"/>
+    <property name="type" value="Solid"/>
+   </properties>
+  </object>
+  <object id="4" type="SolidBlock" x="1248" y="0" width="32" height="640">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="1"/>
+    <property name="type" value="Solid"/>
+   </properties>
+  </object>
+  <object id="5" type="SolidBlock" x="32" y="0" width="1216" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="1"/>
+    <property name="type" value="Solid"/>
+   </properties>
+  </object>
+  <object id="6" type="SolidBlock" x="192" y="96" width="32" height="64">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="1"/>
+    <property name="type" value="Solid"/>
+   </properties>
+  </object>
+  <object id="7" type="SolidBlock" x="224" y="96" width="384" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="1"/>
+    <property name="type" value="Solid"/>
+   </properties>
+  </object>
+  <object id="8" type="SolidBlock" x="672" y="96" width="160" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="1"/>
+    <property name="type" value="Solid"/>
+   </properties>
+  </object>
+  <object id="9" type="SolidBlock" x="832" y="96" width="32" height="64">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="1"/>
+    <property name="type" value="Solid"/>
+   </properties>
+  </object>
+  <object id="10" type="SolidBlock" x="608" y="32" width="64" height="128">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="1"/>
+    <property name="type" value="Solid"/>
+   </properties>
+  </object>
+  <object id="11" type="SolidBlock" x="32" y="320" width="768" height="32">
+   <properties>
+    <property name="isFloor" type="bool" value="false"/>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="1"/>
+    <property name="type" value="Solid"/>
+   </properties>
+  </object>
+  <object id="12" type="SolidBlock" x="608" y="352" width="64" height="128">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="1"/>
+    <property name="type" value="Solid"/>
+   </properties>
+  </object>
+  <object id="13" type="SolidBlock" x="1120" y="320" width="128" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="1"/>
+    <property name="type" value="Solid"/>
+   </properties>
+  </object>
+  <object id="14" type="SolidBlock" x="928" y="128" width="64" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="1"/>
+    <property name="type" value="Solid"/>
+   </properties>
+  </object>
+  <object id="15" type="SolidBlock" x="1024" y="192" width="64" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="1"/>
+    <property name="type" value="Solid"/>
+   </properties>
+  </object>
+  <object id="16" type="SolidBlock" x="928" y="320" width="64" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="1"/>
+    <property name="type" value="Solid"/>
+   </properties>
+  </object>
+  <object id="17" type="SolidBlock" x="832" y="416" width="64" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="1"/>
+    <property name="type" value="Solid"/>
+   </properties>
+  </object>
+  <object id="18" type="SolidBlock" x="928" y="512" width="64" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="1"/>
+    <property name="type" value="Solid"/>
+   </properties>
+  </object>
+  <object id="19" type="SolidBlock" x="1024" y="416" width="64" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="1"/>
+    <property name="type" value="Solid"/>
+   </properties>
+  </object>
+  <object id="23" type="SemiSolidBlock" x="32" y="160" width="64" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="0"/>
+    <property name="type" value="SemiSolid"/>
+   </properties>
+  </object>
+  <object id="24" type="SemiSolidBlock" x="32" y="192" width="96" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="0"/>
+    <property name="type" value="SemiSolid"/>
+   </properties>
+  </object>
+  <object id="25" type="SemiSolidBlock" x="32" y="224" width="128" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="0"/>
+    <property name="type" value="SemiSolid"/>
+   </properties>
+  </object>
+  <object id="26" type="SemiSolidBlock" x="32" y="256" width="128" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="0"/>
+    <property name="type" value="SemiSolid"/>
+   </properties>
+  </object>
+  <object id="27" type="SemiSolidBlock" x="32" y="288" width="128" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="0"/>
+    <property name="type" value="SemiSolid"/>
+   </properties>
+  </object>
+  <object id="28" type="SemiSolidBlock" x="224" y="256" width="64" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="0"/>
+    <property name="tilesetY" type="int" value="1"/>
+    <property name="type" value="SemiSolid"/>
+   </properties>
+  </object>
+  <object id="29" type="SemiSolidBlock" x="224" y="288" width="64" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="0"/>
+    <property name="tilesetY" type="int" value="1"/>
+    <property name="type" value="SemiSolid"/>
+   </properties>
+  </object>
+  <object id="30" type="SemiSolidBlock" x="480" y="256" width="32" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="0"/>
+    <property name="type" value="SemiSolid"/>
+   </properties>
+  </object>
+  <object id="31" type="SemiSolidBlock" x="448" y="288" width="96" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="0"/>
+    <property name="type" value="SemiSolid"/>
+   </properties>
+  </object>
+  <object id="32" type="SemiSolidBlock" x="320" y="480" width="32" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="0"/>
+    <property name="type" value="SemiSolid"/>
+   </properties>
+  </object>
+  <object id="33" type="SemiSolidBlock" x="416" y="480" width="32" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="0"/>
+    <property name="type" value="SemiSolid"/>
+   </properties>
+  </object>
+  <object id="34" type="SemiSolidBlock" x="288" y="512" width="64" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="0"/>
+    <property name="type" value="SemiSolid"/>
+   </properties>
+  </object>
+  <object id="35" type="SemiSolidBlock" x="416" y="512" width="64" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="0"/>
+    <property name="type" value="SemiSolid"/>
+   </properties>
+  </object>
+  <object id="36" type="SemiSolidBlock" x="256" y="544" width="96" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="0"/>
+    <property name="type" value="SemiSolid"/>
+   </properties>
+  </object>
+  <object id="37" type="SemiSolidBlock" x="224" y="576" width="128" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="0"/>
+    <property name="type" value="SemiSolid"/>
+   </properties>
+  </object>
+  <object id="38" type="SemiSolidBlock" x="96" y="512" width="32" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="0"/>
+    <property name="tilesetY" type="int" value="1"/>
+    <property name="type" value="SemiSolid"/>
+   </properties>
+  </object>
+  <object id="39" type="SemiSolidBlock" x="96" y="544" width="32" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="0"/>
+    <property name="tilesetY" type="int" value="1"/>
+    <property name="type" value="SemiSolid"/>
+   </properties>
+  </object>
+  <object id="40" type="SemiSolidBlock" x="96" y="576" width="32" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="0"/>
+    <property name="tilesetY" type="int" value="1"/>
+    <property name="type" value="SemiSolid"/>
+   </properties>
+  </object>
+  <object id="41" type="SemiSolidBlock" x="416" y="544" width="96" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="0"/>
+    <property name="type" value="SemiSolid"/>
+   </properties>
+  </object>
+  <object id="42" type="SemiSolidBlock" x="416" y="576" width="128" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="0"/>
+    <property name="type" value="SemiSolid"/>
+   </properties>
+  </object>
+  <object id="43" type="SemiSolidBlock" x="1152" y="256" width="64" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="0"/>
+    <property name="type" value="SemiSolid"/>
+   </properties>
+  </object>
+  <object id="44" type="SemiSolidBlock" x="1152" y="288" width="64" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="1"/>
+    <property name="tilesetY" type="int" value="0"/>
+    <property name="type" value="SemiSolid"/>
+   </properties>
+  </object>
+  <object id="45" type="PassThroughBlock" x="224" y="128" width="384" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="0"/>
+    <property name="tilesetY" type="int" value="0"/>
+    <property name="type" value="PassThrough"/>
+   </properties>
+  </object>
+  <object id="46" type="PassThroughBlock" x="672" y="128" width="160" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="0"/>
+    <property name="tilesetY" type="int" value="0"/>
+    <property name="type" value="PassThrough"/>
+   </properties>
+  </object>
+  <object id="47" type="PassThroughBlock" x="32" y="352" width="576" height="32">
+   <properties>
+    <property name="tilesetX" type="int" value="0"/>
+    <property name="tilesetY" type="int" value="0"/>
+    <property name="type" value="PassThrough"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

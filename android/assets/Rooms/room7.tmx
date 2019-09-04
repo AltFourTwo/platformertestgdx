@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.0" orientation="orthogonal" renderorder="right-down" width="80" height="20" tilewidth="32" tileheight="32" infinite="0" nextlayerid="4" nextobjectid="101">
+ <properties>
+  <property name="background" value="testbg.png"/>
+  <property name="globalX" type="int" value="1"/>
+  <property name="globalY" type="int" value="1"/>
+  <property name="roomID" type="int" value="6"/>
+  <property name="roomName" value="Test Room 5 Slopes 2"/>
+  <property name="tileset" value="tilesetwslopes.png"/>
+ </properties>
+ <tileset firstgid="1" source="testslopes.tsx"/>
+ <layer id="1" name="Under Player" width="80" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt2MlOAkEURuFKVFARFBXCwllBXTohAuoDOPsGTsAbICg+Oydp2Rg7VN9rILHvn3xLqionvaLgnCsYFZts1k8366eb9dPN+ulm/XSzfrpZP92sn27WTzfrp1uc+l3hGje4xQHucI8HPArOjFO/JzzjBa8u6PeGBppoCc6MU7823tFB1wX9PvCJHr4EZ2r6TXy/IS/8/Si2glWsueCtw+xiD/soeZwv6TeJqR/3LiMX8ZxR7BBHOHZ+/c5xgUvP8337JZDE9JD7s1jEkuf9f711bGATW7+8L4pt7KDowr/FsH4zmEUKc8L708hgHgtRQwh3gjJOURG+e+AMVdRQD7lv3P97/wd9KpwwQg==
+  </data>
+ </layer>
+ <layer id="2" name="Above Player" width="80" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T20PBxQAAAAAAMCXARkAAAE=
+  </data>
+ </layer>
+ <objectgroup id="3" name="Blocks">
+  <object id="1" type="SolidBlock" x="0" y="0" width="32" height="320"/>
+  <object id="2" type="SolidBlock" x="0" y="320" width="32" height="320"/>
+  <object id="3" type="SolidBlock" x="2528" y="0" width="32" height="320"/>
+  <object id="4" type="SolidBlock" x="2528" y="320" width="32" height="320"/>
+  <object id="5" type="SolidBlock" x="32" y="0" width="608" height="32"/>
+  <object id="6" type="SolidBlock" x="32" y="608" width="608" height="32"/>
+  <object id="7" type="SolidBlock" x="1920" y="0" width="608" height="32"/>
+  <object id="8" type="SolidBlock" x="1920" y="608" width="608" height="32"/>
+  <object id="9" type="SolidBlock" x="640" y="0" width="640" height="32"/>
+  <object id="10" type="SolidBlock" x="640" y="608" width="640" height="32"/>
+  <object id="11" type="SolidBlock" x="1280" y="608" width="640" height="32"/>
+  <object id="12" type="SolidBlock" x="1280" y="0" width="640" height="32"/>
+  <object id="13" type="SolidBlock" x="1920" y="608" width="608" height="32"/>
+  <object id="14" type="SolidBlock" x="2528" y="320" width="32" height="320"/>
+  <object id="15" type="SolidBlock" x="1920" y="0" width="608" height="32"/>
+  <object id="16" type="SolidBlock" x="2528" y="0" width="32" height="320"/>
+  <object id="17" type="SolidBlock" x="1280" y="608" width="640" height="32"/>
+  <object id="18" type="SolidBlock" x="640" y="608" width="640" height="32"/>
+  <object id="19" type="SolidBlock" x="32" y="608" width="608" height="32"/>
+  <object id="20" type="SolidBlock" x="0" y="320" width="32" height="320"/>
+  <object id="21" type="SolidBlock" x="1280" y="0" width="640" height="32"/>
+  <object id="22" type="SolidBlock" x="640" y="0" width="640" height="32"/>
+  <object id="23" type="SolidBlock" x="32" y="0" width="608" height="32"/>
+  <object id="24" type="SolidBlock" x="0" y="0" width="32" height="320"/>
+  <object id="80" type="SolidBlock" x="160" y="576" width="128" height="32">
+   <properties>
+    <property name="collisionKey" value="SLOPE_FORWARD"/>
+    <property name="isSlope" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="81" type="SolidBlock" x="288" y="544" width="96" height="32">
+   <properties>
+    <property name="collisionKey" value="SLOPE_FORWARD"/>
+    <property name="isSlope" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="82" type="SolidBlock" x="384" y="512" width="64" height="32">
+   <properties>
+    <property name="collisionKey" value="SLOPE_FORWARD"/>
+    <property name="isSlope" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="83" type="SolidBlock" x="448" y="480" width="32" height="32">
+   <properties>
+    <property name="collisionKey" value="SLOPE_FORWARD"/>
+    <property name="isSlope" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="84" type="SolidBlock" x="512" y="480" width="32" height="32">
+   <properties>
+    <property name="collisionKey" value="SLOPE_BACKWARD"/>
+    <property name="isSlope" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="85" type="SolidBlock" x="544" y="512" width="64" height="32">
+   <properties>
+    <property name="collisionKey" value="SLOPE_BACKWARD"/>
+    <property name="isSlope" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="86" type="SolidBlock" x="608" y="544" width="96" height="32">
+   <properties>
+    <property name="collisionKey" value="SLOPE_BACKWARD"/>
+    <property name="isSlope" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="87" type="SolidBlock" x="704" y="576" width="128" height="32">
+   <properties>
+    <property name="collisionKey" value="SLOPE_BACKWARD"/>
+    <property name="isSlope" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="88" type="SolidBlock" x="1632" y="544" width="128" height="64">
+   <properties>
+    <property name="collisionKey" value="SLOPE_FORWARD"/>
+    <property name="isSlope" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="89" type="SolidBlock" x="1760" y="480" width="96" height="64">
+   <properties>
+    <property name="collisionKey" value="SLOPE_FORWARD"/>
+    <property name="isSlope" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="90" type="SolidBlock" x="1856" y="384" width="128" height="96">
+   <properties>
+    <property name="collisionKey" value="SLOPE_FORWARD"/>
+    <property name="isSlope" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="91" type="SolidBlock" x="2016" y="384" width="128" height="96">
+   <properties>
+    <property name="collisionKey" value="SLOPE_BACKWARD"/>
+    <property name="isSlope" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="92" type="SolidBlock" x="2144" y="480" width="96" height="64">
+   <properties>
+    <property name="collisionKey" value="SLOPE_BACKWARD"/>
+    <property name="isSlope" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="93" type="SolidBlock" x="2240" y="544" width="128" height="64">
+   <properties>
+    <property name="collisionKey" value="SLOPE_BACKWARD"/>
+    <property name="isSlope" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="94" type="SolidBlock" x="1984" y="384" width="32" height="96"/>
+  <object id="95" type="SolidBlock" x="1856" y="480" width="288" height="64"/>
+  <object id="96" type="SolidBlock" x="1760" y="544" width="480" height="64"/>
+  <object id="97" type="SolidBlock" x="480" y="480" width="32" height="32"/>
+  <object id="98" type="SolidBlock" x="448" y="512" width="96" height="32"/>
+  <object id="99" type="SolidBlock" x="384" y="544" width="224" height="32"/>
+  <object id="100" type="SolidBlock" x="288" y="576" width="416" height="32"/>
+ </objectgroup>
+</map>
