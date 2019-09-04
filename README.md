@@ -9,6 +9,6 @@ I've learned and used many things to create this
 - Collision detection and handling
 - Dynamically read, create and display objects read from map data files
 - Create custom Widgets for the UI
-- Create widget styles
+- Create widget styles, written in JSON
 - 9-Patch image format
 - Tiled, a 2d tiled map maker program
